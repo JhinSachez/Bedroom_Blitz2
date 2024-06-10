@@ -5545,9 +5545,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d4f302f839e9d74cab69ced817ff367, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  min: 5
-  seg: 0
+  min: 0
+  seg: 5
   timer: {fileID: 1363299359}
+  fadeScreen: {fileID: 0}
+  timeLeft: 0
 --- !u!4 &696122481
 Transform:
   m_ObjectHideFlags: 0
